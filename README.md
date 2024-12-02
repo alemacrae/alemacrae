@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Alessandro 👋
 
-<!--
-**alemacrae/alemacrae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! Here you'll find a collection of my open-source projects, personal projects, and contributions to the community.
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- I'm a **Data Scientist** with a passion for **Machine Learning**.
+- I hold a **PhD in Computer Vision and Pattern Recognition**.
+- Currently, I’m based in the **UK**, working in the **Data Science** field.
+
+## 🔧 Technologies & Tools
+
+- Python, R, SQL, TensorFlow, Keras
+- Pandas, NumPy, Scikit-learn, PyTorch
+- Git, Docker, Jenkins
+- Azure, AWS, Google Cloud
+
+## 🌱 I'm Currently Working On
+
+- Staying up to date with the latest **Data Science** technologies.
+- Exploring advanced **Machine Learning** models.
+- Developing a personal portfolio showcasing my work and projects.
+
+## 📫 How to Reach Me
+
+Feel free to connect with me:
+- [LinkedIn](https://www.linkedin.com/in/alessandro-torrisi-99a46a64/)
+- [Email](mailto:alessandro_torrisi@hotmail.com)
