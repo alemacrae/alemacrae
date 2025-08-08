@@ -26,3 +26,17 @@ Welcome to my GitHub profile! Here you'll find a collection of my open-source pr
 Feel free to connect with me:
 - [LinkedIn](https://www.linkedin.com/in/alessandro-torrisi-99a46a64/)
 - [Email](mailto:alessandro_torrisi@hotmail.com)
+
+## Plant Segmentation Utility
+
+This repo now includes a small script, `plant_segmentation.py`, which can separate green
+vegetation from background using simple color thresholding.  It requires Python and
+OpenCV:
+
+```bash
+pip install opencv-python numpy
+python plant_segmentation.py path/to/image.jpg --save
+```
+
+Running the command above will write a binary mask alongside the original
+image, highlighting plant regions.
